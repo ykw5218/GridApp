@@ -15,7 +15,6 @@ namespace GridApp
         public Page3()
         {
             InitializeComponent();
-            public Xamarin.Forms.ImageSource GetImageSource;
         }
     }
 }
